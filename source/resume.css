@@ -1,0 +1,80 @@
+body {
+    display: block;
+    max-width: 700px;
+    margin: 0 auto;
+    font-family: Roboto;
+    font-size: 14px;
+}
+
+.name {
+    font-size: 150%;
+    line-height: 150%;
+    font-weight: bold;
+    display: block;
+    text-align: center;
+}
+
+h1 {
+    border: none;
+    text-align: center;
+    font-weight: bold;
+    padding: 0;
+    margin: 1rem 0;
+}
+
+h2 {
+    font-size: 120%;
+    font-weight: bold;
+    border-bottom: 2px solid black;
+    color: #0D47A1;
+    margin: 0;
+}
+
+h3 {
+    font-size: 100%;
+    font-weight: bold;
+    margin: 0;
+}
+
+p, ul {
+    font-size: 100%;
+    margin: 0;
+}
+
+ul {
+    padding: 0 0 0 1.5rem;
+}
+
+li {
+    line-height: 150%;
+    /* change this for tighter spacing */
+    /* default 150% */
+}
+
+img {
+    width: 12px;
+    /* assume images are icons */
+}
+
+a {
+    color: #0D47A1;
+}
+
+code {
+    color: black;
+}
+
+time {
+    float: right;
+    font-size: inherit;
+}
+
+location {
+    font-weight: normal;
+    font-style: italic;
+}
+
+.info {
+    display: block;
+    text-align: center;
+}
