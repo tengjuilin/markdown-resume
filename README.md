@@ -1,4 +1,4 @@
-# Markdown Resume <img src="https://simpleicons.org/icons/markdown.svg" width=20> <img src="https://simpleicons.org/icons/visualstudiocode.svg" width=20> [![License](https://img.shields.io/github/license/tengjuilin/resume)](https://opensource.org/licenses/MIT)
+# Markdown Resume <img src="https://simpleicons.org/icons/markdown.svg" width=20> <img src="https://simpleicons.org/icons/visualstudiocode.svg" width=20> [![License](https://img.shields.io/github/license/tengjuilin/markdown-resume)](https://opensource.org/licenses/MIT)
 
 Markdown resume provides a simple, elegant, and fast workflow to write resumes.
 
