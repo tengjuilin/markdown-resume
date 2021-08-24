@@ -51,9 +51,16 @@ li {
     /* default 150% */
 }
 
-img {
+/* assume images are icons */
+/* icons for skills/tools */
+.info img {
+    width: 15px;
+}
+
+/* assume images are icons */
+/* icons for contact info */
+.info a img {
     width: 12px;
-    /* assume images are icons */
 }
 
 a {
