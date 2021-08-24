@@ -81,8 +81,7 @@
 
 ### Student Council Historian and Secretary <time> 2017 - 2019 </time>
 
-- Prepared, coordinated, and executed activities, including
-Halloween activities, Thanksgiving Bonfire Nights, Christmas celebrations, Spirit Weeks, and Academic Integrity Seminar
+- Prepared, coordinated, and executed activities, including Halloween activities, Thanksgiving Bonfire Nights, Christmas celebrations, Spirit Weeks, and Academic Integrity Seminar
 - Drafted, edited, and updated activity proposals and meeting minutes for iterative improvement of execution
 - Raised 1000+ CNY funds and 200+ books for children in need with fundraising events
 
