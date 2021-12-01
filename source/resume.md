@@ -31,7 +31,7 @@
 
 <location> Department of Chemical Engineering, University of Washington, PI: Elizabeth Nance </location>
 
-- Mastereed the application of Visually Aided Morpho-Phenotyping Image Recognition (VAMPIRE) for quantitative microglial shape analysis
+- Mastered the application of Visually Aided Morpho-Phenotyping Image Recognition (VAMPIRE) for quantitative microglial shape analysis
 - Developed [`vampire-analysis`](https://github.com/tengjuilin/vampire-analysis) Python API for modular integration to fluorescent image analysis workflow
 - Surveyed literature regarding cell segmentation, morphological analysis, and image-based profiling
 
@@ -49,8 +49,8 @@
 
 <location> Women in Chemical Engineering, University of Washington </location>
 
-- Keep transparent meeting records, manage member email list, and maintain student group registration
-- Compose biweekly newsletters to 400+ members to update events, resources, and diversity highlights
+- Kept transparent meeting records, manage member email list, and maintain student group registration
+- Composed biweekly newsletters to 400+ members to update events, resources, and diversity highlights
 
 ### Research and Development Officer <time> Apr 2020 – Jun 2021 </time>
 
