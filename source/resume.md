@@ -61,7 +61,7 @@
 
 ### Maple Hall Council SEED Representative <time> Oct 2019 – Mar 2020 </time>
 
-<location> Food and Housing Services, University of Washington </location>
+<location> Housing and Food Services, University of Washington </location>
 
 - Led committee meetings and planned campus-wide competition that raised waste sorting awareness
 - Attended weekly hall council and SEED meetings to liaise feedback and updates on activities and initiatives
