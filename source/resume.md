@@ -15,7 +15,7 @@
 
 - B.S. in Chemical Engineering, Nanoscience and Molecular Engineering Option
 - Expected Graduation: June 2023
-- GPA: 3.94 | Dan Evans Term Scholarship | C-HACK 2021 Team 3rd Place | 2 Annual Dean's Lists
+- GPA: 3.95 | Mary Gates Research Scholarship | Dan Evans Term Scholarship | C-HACK 2021 Team 3rd Place
 
 ### Brown University | <location> Providence, RI, USA </location> <time> Jun 2018 – Aug 2018 </time>
 
@@ -32,7 +32,8 @@
 <location> Department of Chemical Engineering, University of Washington, PI: Elizabeth Nance </location>
 
 - Mastered the application of Visually Aided Morpho-Phenotyping Image Recognition (VAMPIRE) for quantitative microglial shape analysis
-- Developed [`vampire-analysis`](https://github.com/tengjuilin/vampire-analysis) Python API for modular integration to fluorescent image analysis workflow
+- Developed VAMPIRE analysis Python API for modular integration to fluorescent image analysis workflow
+- Operated a confocal microscope for 15 hours to scan 48 murine breast cancer tissue slices
 - Surveyed literature regarding cell segmentation, morphological analysis, and image-based profiling
 
 ### Calculus Teaching Assistant <time> Sep 2018 – May 2019 </time>
