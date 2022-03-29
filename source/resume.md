@@ -51,7 +51,7 @@
 
 <location> Women in Chemical Engineering, University of Washington </location>
 
-- Kept transparent meeting records, manage member email list, and maintain student group registration
+- Kept transparent meeting records, managed member email list, and maintained student group registration
 - Composed biweekly newsletters to 400+ members to update events, resources, and diversity highlights
 
 ### Research and Development Officer <time> Apr 2020 – Jun 2021 </time>
