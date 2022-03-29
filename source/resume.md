@@ -16,7 +16,7 @@
 - B.S. in Chemical Engineering, Nanoscience and Molecular Engineering Option
 - Minor in Applied Mathematics and Chemistry
 - Expected Graduation: June 2023
-- GPA: 3.95 | Mary Gates Research Scholarship | Dan Evans Term Scholarship | C-HACK Team 1st, 3rd Places
+- GPA: 3.96 | Mary Gates Research Scholarship | Dan Evans Term Scholarship | C-HACK Team 1st, 3rd Places
 
 ### Brown University | <location> Providence, RI, USA </location> <time> Jun 2018 – Aug 2018 </time>
 
