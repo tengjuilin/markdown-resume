@@ -34,7 +34,7 @@
 
 - Mastered the application of Visually Aided Morpho-Phenotyping Image Recognition (VAMPIRE) for quantitative microglial shape analysis
 - Developed VAMPIRE analysis Python API for modular integration to fluorescent image analysis workflow
-- Operated a confocal microscope for 15 hours to scan 48 murine breast cancer tissue slices
+- Scanned 102 murine breast cancer tissue slices using confocal microscope (24.5 hr) for collaborators
 - Surveyed literature regarding cell segmentation, morphological analysis, and image-based profiling
 
 ### Calculus Teaching Assistant <time> Sep 2018 – May 2019 </time>
