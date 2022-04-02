@@ -42,7 +42,7 @@ p, ul {
     margin: 0;
 }
 
-ul {
+ul, ol {
     padding: 0 0 0 1.5rem;
 }
 
@@ -75,6 +75,7 @@ code {
 time {
     float: right;
     font-size: inherit;
+    font-weight: bold;
 }
 
 location {
