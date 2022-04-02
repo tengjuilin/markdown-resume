@@ -13,7 +13,7 @@
 
 ### University of Washington | <location> Seattle, WA, USA </location> <time> Sep 2019 – Present </time>
 
-- B.S. in Chemical Engineering, Nanoscience and Molecular Engineering Option
+- B.S. in Chemical Engineering, Nanoscience and Molecular Engineering Option, with Departmental Honors
 - Minor in Applied Mathematics and Chemistry
 - Expected Graduation: June 2023
 - GPA: 3.96 | Mary Gates Research Scholarship | Dan Evans Term Scholarship | C-HACK Team 1st, 3rd Places
