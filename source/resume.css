@@ -44,6 +44,7 @@ p, ul {
 
 ul, ol {
     padding: 0 0 0 1.5rem;
+    margin: 0;
 }
 
 li {
