@@ -58,8 +58,8 @@
 
 Presenting Author^
 
-1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Incorporating Visually Aided Morpho-Phenotyping Image Recognition into Robust Microglial Shape Analysis. <location> Undergraduate Research Symposium, University of Washington, Seattle, WA, USA. </location> May 2022.
-1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Robust Microglial Shape Analysis using Visually Aided Morpho-Phenotyping Image Recognition. <location> AIChE Pacific Northwest Student Regional Conference, Seattle, WA, USA. </location> Apr 2022.
+1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Incorporating Visually Aided Morpho-Phenotyping Image Recognition into Robust Microglial Shape Analysis. <location> Undergraduate Research Symposium, University of Washington, Seattle, WA, USA. </location> 20 May 2022.
+1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Robust Microglial Shape Analysis using Visually Aided Morpho-Phenotyping Image Recognition. <location> AIChE Pacific Northwest Student Regional Conference, Seattle, WA, USA. </location> 23 Apr 2022.
 
 <!-- ### Oral Presentations-->
 
@@ -74,6 +74,10 @@ Presenting Author^
 ### Calculus Teaching Assistant  | <location> Kinglee High School </location> <time> Sep 2018 – May 2019 </time>
 
 ## Service
+
+### Webmaster <time> Apr 2022 – Present </time>
+
+<location> American Institute of Chemical Engineers (AIChE), University of Washington </location>
 
 ### Secretary <time> May 2021 – Present </time>
 

@@ -47,12 +47,20 @@
 
 ## Other Experience
 
+### Webmaster <time> Apr 2022 – Present </time>
+
+<location> American Institute of Chemical Engineers (AIChE), University of Washington </location>
+
+- Managed and designed official website; monitored and updated social media accounts and email list
+- Coordinated with internal and external media efforts to ensure up-to-date online presence
+
 ### Secretary <time> May 2021 – Present </time>
 
 <location> Women in Chemical Engineering, University of Washington </location>
 
 - Kept transparent meeting records, managed member email list, and maintained student group registration
 - Composed biweekly newsletters to 400+ members to update events, resources, and diversity highlights
+- Facilitated coordination of Veteran's Day event, Wiki-edit-a-thon, and International Women's Day event
 
 ### Research and Development Officer <time> Apr 2020 – Jun 2021 </time>
 
