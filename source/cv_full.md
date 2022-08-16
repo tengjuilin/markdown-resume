@@ -28,8 +28,8 @@
 
 <location> Department of Chemical Engineering, University of Washington, PI: Elizabeth Nance </location>
 
-- Mastered the application of Visually Aided Morpho-Phenotyping Image Recognition (VAMPIRE) for quantitative microglial shape analysis
-- Developed VAMPIRE analysis Python API for modular integration to fluorescent image analysis workflow
+- Quantified microglia morphology of 3 datasets using image processing and machine learning methods
+- Developed Python API for data analysis for modular integration to fluorescent image analysis workflow
 - Scanned 102 murine breast cancer tissue slices using confocal microscope (24.5 hr) for collaborators
 - Surveyed literature regarding cell segmentation, morphological analysis, and image-based profiling
 
@@ -113,6 +113,7 @@ Presenting Author^
 
 - Managed and designed official website; monitored and updated social media accounts and email list
 - Coordinated with internal and external media efforts to ensure up-to-date online presence
+- Facilitated coordination of ChemE BBQ event and graduation ceremony
 
 ### Secretary <time> May 2021 – Present </time>
 
