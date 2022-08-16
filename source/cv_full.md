@@ -35,27 +35,38 @@
 
 ## Honors & Awards
 
-### C-HACK 2022 Team 1st Place | <location> Department of Chemical Engineering, University of Washington </location> <time> Jan 2022 </time>
+<!-- May 2021, Jul 2022 -->
+### Dan Evans Term Scholarships | <location> Department of Chemical Engineering, University of Washington </location> <time> 2021 & 2022 </time>
 
-### Mary Gates Research Scholarship | <location> Mary Gates Endowment for Students, University of Washington </location> <time> Dec 2021 </time>
+<!-- Jun 2020, Jun 2021, Jun 2022 -->
+### Annual Dean's Lists | <location> University of Washington </location> <time> 2020-2022 </time>
 
-### Dan Evans Term Scholarship | <location> Department of Chemical Engineering, University of Washington </location> <time> May 2021 </time>
+<!-- Jan 2022 -->
+### C-HACK 2022 Team 1st Place | <location> Department of Chemical Engineering, University of Washington </location> <time> 2022 </time>
 
-### C-HACK 2021 Team 3rd Place | <location> Department of Chemical Engineering, University of Washington </location> <time> Jan 2021 </time>
+<!-- Dec 2021 -->
+### Mary Gates Research Scholarship | <location> Mary Gates Endowment for Students, University of Washington </location> <time> 2021 </time>
 
-### 2 Annual Dean's Lists | <location> University of Washington </location> <time> 2020, 2021 </time>
+<!-- Jan 2021 -->
+### C-HACK 2021 Team 3rd Place | <location> Department of Chemical Engineering, University of Washington </location> <time> 2021 </time>
 
-### Discovery Fair 1st Place | <location> Kinglee High School </location> <time> May 2019 </time>
+<!-- May 2019 -->
+### Discovery Fair 1st Place | <location> Kinglee High School </location> <time> 2019 </time>
 
-### Peer Tutor Award | <location> Kinglee High School </location> <time> May 2019 </time>
+<!-- May 2019 -->
+### Peer Tutor Award | <location> Kinglee High School </location> <time> 2019 </time>
 
-### Science Fair Award 2nd Place | <location> Kinglee High School </location> <time> Jun 2018 </time>
+<!-- Jun 2018 -->
+### Science Fair Award 2nd Place | <location> Kinglee High School </location> <time> 2018 </time>
 
-### Peer Tutor Award | <location> Kinglee High School </location> <time> May 2018 </time>
+<!-- May 2018 -->
+### Peer Tutor Award | <location> Kinglee High School </location> <time> 2018 </time>
 
-### Merit Student of Zhengzhou City | <location> Zhengzhou Municipal Education Bureau </location> <time> Apr 2018 </time>
+<!-- Apr 2018 -->
+### Merit Student of Zhengzhou City | <location> Zhengzhou Municipal Education Bureau </location> <time> 2018 </time>
 
-### Science Fair Award 1st Place | <location> Kinglee High School </location> <time> Jun 2017 </time>
+<!-- Jun 2017 -->
+### Science Fair Award 1st Place | <location> Kinglee High School </location> <time> 2017 </time>
 
 <!-- ## Publications -->
 
