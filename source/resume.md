@@ -37,6 +37,15 @@
 - Scanned 102 murine breast cancer tissue slices using confocal microscope (24.5 hr) for collaborators
 - Surveyed literature regarding cell segmentation, morphological analysis, and image-based profiling
 
+### Summer Undergraduate Research Scholar <time> Jun 2022 - Aug 2022 </time>
+
+<location> STROBE NSF Science and Technology Center on Real-Time Functional Imaging <br/> Department of Physics, Florida International University, PI: Jin He </location>
+
+- Fabricated and functionalized gold nanorods for promoting maturation of engineered cardiomyocytes
+- Characterized gold nanorods using UV-visible spectroscopy and Raman spectroscopy
+- Measured contractile force of cardiomyocytes by analyzing brightfield microscopy video data with Python
+- Processed confocal microscopy images of T-tubular systems of cardiomyocytes with Python
+
 ### Calculus Teaching Assistant <time> Sep 2018 – May 2019 </time>
 
 <location> Kinglee High School </location>

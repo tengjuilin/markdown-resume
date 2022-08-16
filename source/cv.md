@@ -28,6 +28,10 @@
 
 <location> Department of Chemical Engineering, University of Washington, PI: Elizabeth Nance </location>
 
+### Summer Undergraduate Research Scholar <time> Jun 2022 - Aug 2022 </time>
+
+<location> STROBE NSF Science and Technology Center on Real-Time Functional Imaging <br/> Department of Physics, Florida International University, PI: Jin He </location>
+
 ## Honors & Awards
 
 <!-- May 2021, Jul 2022 -->
@@ -69,8 +73,9 @@
 
 Presenting Author^
 
-1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Incorporating Visually Aided Morpho-Phenotyping Image Recognition into Robust Microglial Shape Analysis. <location> Undergraduate Research Symposium, University of Washington, Seattle, WA, USA. </location> 20 May 2022.
-1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Robust Microglial Shape Analysis using Visually Aided Morpho-Phenotyping Image Recognition. <location> AIChE Pacific Northwest Student Regional Conference, Seattle, WA, USA. </location> 23 Apr 2022.
+1. (Poster) **T.-J. Lin**^, A. Rubfiaro, G. Ghimire, J. He. Fabrication and characterization of functionalized gold nanorods for improving engineered cardiac tissue maturation. <location> Center for Diversity and Student Success Summer Research Symposium, Florida International University, Miami, FL, USA. </location> 29 July 2022.
+1. (Oral) **T.-J. Lin**^, H. Helmbrecht, E. Nance. Incorporating Visually Aided Morpho-Phenotyping Image Recognition into Robust Microglial Shape Analysis. <location> Undergraduate Research Symposium, University of Washington, Seattle, WA, USA. </location> 20 May 2022.
+1. (Oral) **T.-J. Lin**^, H. Helmbrecht, E. Nance. Robust Microglial Shape Analysis using Visually Aided Morpho-Phenotyping Image Recognition. <location> AIChE Pacific Northwest Student Regional Conference, Seattle, WA, USA. </location> 23 Apr 2022.
 
 <!-- ### Oral Presentations-->
 
