@@ -41,9 +41,9 @@
 
 <location> STROBE NSF Science and Technology Center on Real-Time Functional Imaging <br/> Department of Physics, Florida International University, PI: Jin He </location>
 
-- Fabricated and functionalized gold nanorods for promoting maturation of engineered cardiomyocytes
+- Fabricated and functionalized gold nanorods for promoting maturation of engineered cardiac tissues
 - Characterized gold nanorods using UV-visible spectroscopy and Raman spectroscopy
-- Measured contractile force of cardiomyocytes by analyzing brightfield microscopy video data with Python
+- Measured contractile force of cardiac tissues by analyzing brightfield microscopy video data with Python
 - Processed confocal microscopy images of T-tubular systems of cardiomyocytes with Python
 
 ### Calculus Teaching Assistant <time> Sep 2018 – May 2019 </time>
