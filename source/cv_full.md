@@ -53,7 +53,7 @@
 ### Dan Evans Term Scholarships | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2021 & 2022 </time>
 
 <!-- Jan 2022 -->
-### ChemE Hackathon 1st Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2022 </time>
+### ChemE Hackathon Team 1st Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2022 </time>
 
 <!-- Dec 2021 -->
 ### Mary Gates Research Scholarship | <location> Mary Gates Endowment for Students, University of Washington </location> <time> 2021 </time>
