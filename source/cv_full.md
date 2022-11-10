@@ -87,15 +87,20 @@
 
 Presenting Author^
 
-1. (Poster) **T.-J. Lin**^, A. Rubfiaro, G. Ghimire, J. He. Fabrication and characterization of functionalized gold nanorods for improving engineered cardiac tissue maturation. <location> Center for Diversity and Student Success Summer Research Symposium, Florida International University, Miami, FL, USA. </location> 29 July 2022.
-1. (Oral) **T.-J. Lin**^, H. Helmbrecht, E. Nance. Incorporating Visually Aided Morpho-Phenotyping Image Recognition into Robust Microglial Shape Analysis. <location> Undergraduate Research Symposium, University of Washington, Seattle, WA, USA. </location> 20 May 2022.
-1. (Oral) **T.-J. Lin**^, H. Helmbrecht, E. Nance. Robust Microglial Shape Analysis using Visually Aided Morpho-Phenotyping Image Recognition. <location> AIChE Pacific Northwest Student Regional Conference, Seattle, WA, USA. </location> 23 Apr 2022.
+### Oral Presentations
 
-<!-- ### Oral Presentations-->
+1. H. Helmbrecht^, E. Nance, K. Decker, **T.-J. Lin**, S. Janakiraman, M. Onodera. Analysis of Microglia Morphology across Different Neuroinflammatory Rat Models. <location>AIChE Annual Meeting, Phoenix, AZ, USA.</location> 13 Nov 2022. [Link.](https://plan.core-apps.com/aiche2022/abstract/29bce1ef-7e2d-4c2b-aa7d-29f5814ffc8c)
+1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Incorporating Visually Aided Morpho-Phenotyping Image Recognition into robust microglial shape analysis. <location> Undergraduate Research Symposium, University of Washington, Seattle, WA, USA. </location> 20 May 2022. [Link.](https://expo.uw.edu/expo/apply/635/proceedings/offering_session?id=1372)
+1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Robust microglial shape analysis using Visually Aided Morpho-Phenotyping Image Recognition. <location> AIChE Pacific Northwest Student Regional Conference, Seattle, WA, USA. </location> 23 Apr 2022.
 
 <!-- Add at top in reverse chronological order. -->
 
-<!-- ### Poster Presentations -->
+### Poster Presentations
+
+1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> Southern California Conference for Undergraduate Research, Malibu, CA, USA. </location> 19 Nov 2022. [Link.](https://guidebook.com/g/#/guides/sccur2022/schedule/sessions/28362210)
+1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> AIChE Annual Student Conference, Phoenix, AZ, USA. </location> 13 Nov 2022. [Link.](https://plan.core-apps.com/aiche2022/abstract/fff17dc0b6a8ca31838d53b5ac406918)
+1. **T.-J. Lin**^, H. Helmbrecht, E. Nance. Quantifying microglia morphology across neuroinflammatory rat models with unsupervised machine learning. <location> Future Leaders in Chemical Engineering Award Symposium, North Carolina State University, Raleigh, NC, USA. </location> 24 Oct 2022. [Link.](https://www.cbe.ncsu.edu/research/future-leaders-in-chemical-engineering/meet-the-awardees/)
+1. **T.-J. Lin**^, A. Rubfiaro, G. Ghimire, J. He. Fabrication and characterization of functionalized gold nanorods for improving engineered cardiac tissue maturation. <location> Center for Diversity and Student Success Summer Research Symposium, Florida International University, Miami, FL, USA. </location> 29 July 2022.
 
 <!-- Add at top in reverse chronological order. -->
 
