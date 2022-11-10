@@ -121,7 +121,7 @@ Presenting Author^
 
 <location> Chinese Students and Scholars Association, University of Washington </location>
 
-### Maple Hall Council SEED Representative <time> Oct 2019 – Mar 2020 </time>
+### Maple Hall Council Sustainability Representative <time> Oct 2019 – Mar 2020 </time>
 
 <location> Housing and Food Services, University of Washington </location>
 

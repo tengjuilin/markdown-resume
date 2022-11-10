@@ -147,12 +147,12 @@ Presenting Author^
 - Designed, crafted, and edited posters and videos for major events with average 100+ student engagement
 - Assisted in maintenance of official blog and website to provide academic resources for student success
 
-### Maple Hall Council SEED Representative <time> Oct 2019 – Mar 2020 </time>
+### Maple Hall Council Sustainability Representative <time> Oct 2019 – Mar 2020 </time>
 
 <location> Housing and Food Services, University of Washington </location>
 
 - Led weekly committee meetings of 10 people and planned campus-wide waste-sorting competition
-- Liaise sustainability feedback and initiatives through weekly hall council and SEED meetings
+- Liaise sustainability feedback and initiatives through weekly hall council and sustainability group meetings
 
 <!-- Archive High School Content -->
 
