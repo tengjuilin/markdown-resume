@@ -47,8 +47,6 @@
 <!-- May 2021, Jul 2022 -->
 ### Dan Evans Term Scholarships | <location> Department of Chemical Engineering, University of Washington </location> <time> 2021 & 2022 </time>
 
-<!-- Jun 2020, Jun 2021, Jun 2022 -->
-### Annual Dean's Lists | <location> University of Washington </location> <time> 2020-2022 </time>
 
 <!-- Jan 2022 -->
 ### ChemE Hackathon 1st Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2022 </time>
