@@ -110,6 +110,13 @@ Presenting Author^
 
 ## Service
 
+### Undergraduate Research Leader <time> Sep 2022 – Present </time>
+
+<location> Undergraduate Research Program, University of Washington </location>
+
+- Engaged 120+ students from 6 first-year interest groups with diverse backgrounds through interactive outreach presentations introducing undergraduate research and sharing personal research experience
+<!-- - Present at the Annual UW Undergraduate Research Symposium -->
+
 ### Webmaster <time> Apr 2022 – Present </time>
 
 <location> American Institute of Chemical Engineers (AIChE), University of Washington </location>
