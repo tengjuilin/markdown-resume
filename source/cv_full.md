@@ -20,7 +20,7 @@
 
 - Pre-Baccalaureate Program
 
-### Kinglee High School | <location> Zhengzhou, Henan, China </location> <time> Sep 2013 – Jun 2019 </time>
+<!-- ### Kinglee High School | <location> Zhengzhou, Henan, China </location> <time> Sep 2013 – Jun 2019 </time> -->
 
 ## Professional Experience
 
@@ -137,7 +137,9 @@ Presenting Author^
 - Led committee meetings and planned campus-wide competition that raised waste sorting awareness
 - Attended weekly hall council and SEED meetings to liaise feedback and updates on activities and initiatives
 
-### Peer Tutor of Math, Science, and English <time> Sep 2016 – Jun 2019 </time>
+<!-- Archive High School Content -->
+
+<!-- ### Peer Tutor of Math, Science, and English <time> Sep 2016 – Jun 2019 </time>
 
 <location> Kinglee High School </location>
 
@@ -158,7 +160,7 @@ Presenting Author^
 <location> Kinglee High School </location>
 
 - Supervised biology, chemistry, and physics lab practices of 9th-grade students for Zhongzhao Examination
-- Taught lab safety guidelines, standard lab procedures, and best practices, as well as ensured lab safety
+- Taught lab safety guidelines, standard lab procedures, and best practices, as well as ensured lab safety -->
 
 <link rel="stylesheet" type="text/css" href="resume.css">
 <script src="resume.js"></script>
