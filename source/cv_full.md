@@ -51,13 +51,15 @@
 ### Annual Dean's Lists | <location> University of Washington </location> <time> 2020-2022 </time>
 
 <!-- Jan 2022 -->
-### C-HACK 2022 Team 1st Place | <location> Department of Chemical Engineering, University of Washington </location> <time> 2022 </time>
+### ChemE Hackathon 1st Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2022 </time>
 
 <!-- Dec 2021 -->
 ### Mary Gates Research Scholarship | <location> Mary Gates Endowment for Students, University of Washington </location> <time> 2021 </time>
 
 <!-- Jan 2021 -->
-### C-HACK 2021 Team 3rd Place | <location> Department of Chemical Engineering, University of Washington </location> <time> 2021 </time>
+### ChemE Hackathon Team 3rd Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2021 </time>
+
+<!-- Archive High School Content -->
 
 <!-- May 2019 -->
 <!-- ### Discovery Fair 1st Place | <location> Kinglee High School </location> <time> 2019 </time> -->
