@@ -28,19 +28,18 @@
 
 <location> Department of Chemical Engineering, University of Washington, PI: Elizabeth Nance </location>
 
-- Quantified microglia morphology of 3 datasets using image processing and machine learning methods
-- Developed Python API for data analysis for modular integration to fluorescent image analysis workflow
-- Scanned 102 murine breast cancer tissue slices using confocal microscope (24.5 hr) for collaborators
-- Surveyed literature regarding cell segmentation, morphological analysis, and image-based profiling
+- Quantified microglia morphology across 3 neuroinflammatory rat models (20,000+ cells) with immunofluorescent image processing and unsupervised machine learning
+- Developed 80% more efficient Python application programming interface for morphological analysis and modular integration to immunofluorescent image analysis workflow
+- Tile-scanned 12 murine breast cancer tissue slices using confocal microscope (24.5 hr)
+- Analyzed number of publications that used immunofluorescent images at 450+ combinations of variables using PubMed web scrapping in Python, 93% more efficient than manual search
 
 ### Summer Undergraduate Research Scholar <time> Jun 2022 - Aug 2022 </time>
 
 <location> STROBE NSF Science and Technology Center on Real-Time Functional Imaging <br/> Department of Physics, Florida International University, PI: Jin He </location>
 
-- Fabricated and functionalized gold nanorods for promoting maturation of engineered cardiac tissues
+- Fabricated, functionalized, and surface-modified gold nanorods improving tissue conductivity
 - Characterized gold nanorods using UV-visible spectroscopy and Raman spectroscopy
-- Measured contractile force of cardiac tissues by analyzing brightfield microscopy video data with Python
-- Processed confocal microscopy images of T-tubular systems of cardiomyocytes with Python
+- Measured contractile force of cardiac tissues by analyzing brightfield microscopy video data and processed confocal microscopy images of cardiomyocytes with Python
 
 ## Honors & Awards
 
