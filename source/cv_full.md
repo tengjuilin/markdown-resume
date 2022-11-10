@@ -18,7 +18,7 @@
 
 ### Brown University | <location> Providence, RI, USA </location> <time> Jun 2018 – Aug 2018 </time>
 
-- Pre-Baccalaureate Program
+- Pre-Baccalaureate Program: Neuroscience, Cell and Molecular Biology
 
 <!-- ### Kinglee High School | <location> Zhengzhou, Henan, China </location> <time> Sep 2013 – Jun 2019 </time> -->
 
@@ -94,6 +94,10 @@ Presenting Author^
 <!-- ### Poster Presentations -->
 
 <!-- Add at top in reverse chronological order. -->
+
+## Mass Media Appearances
+
+1. (Insights letter) R. Tang, T. Bharani, J. Ding, K. Li, J. Wen, S. D. Gopinath, **T.-J. Lin**, J. X. J. Luo, Q. Wen, K. Davis, N. van Rhijn, Name withheld, S. M. Anderson, R. J. Patel, S. Sarnala, F. S. Oda, G. Singh, N. R. Kothapalli, N. Scott, J. R. Powell, S. N. Kirshner. When internships disappoint. *Science*. 378, 22–24 (2022). [DOI: 10.1126/science.ade6397.](https://doi.org/10.1126/science.ade6397)
 
 ## Teaching Experience
 
