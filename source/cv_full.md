@@ -105,9 +105,8 @@ Presenting Author^
 
 <location> Kinglee High School </location>
 
-- Gave AP Calculus AB lectures 4 hours weekly to 5 students in alignment with CollegeBoard curriculum
-- Clarified complex concepts and common confusions about calculus with classroom activities
-- Worked with supervisor to design and grade concept checks, homework, and quizzes with tight deadlines
+- Lectured 4 hours/week to 5 students in alignment with CollegeBoard-certified AP Calculus AB curriculum with interactive classroom activities to clarify complex concepts and common confusions
+- Designed and graded bidaily concept checks, homework, and quizzes with tight deadlines under supervision
 
 ## Service
 
@@ -115,31 +114,29 @@ Presenting Author^
 
 <location> American Institute of Chemical Engineers (AIChE), University of Washington </location>
 
-- Managed and designed official website; monitored and updated social media accounts and email list
-- Coordinated with internal and external media efforts to ensure up-to-date online presence
-- Facilitated coordination of ChemE BBQ event and graduation ceremony
+- Designed, managed, and updated official website and social media interfacing with 200+ students
+- Facilitated coordination of ChemE BBQ event and graduation ceremony with 300+ cumulative  engagement
 
 ### Secretary <time> May 2021 – Present </time>
 
 <location> Women in Chemical Engineering, University of Washington </location>
 
-- Kept transparent meeting records, managed member email list, and maintained student group registration
-- Composed biweekly newsletters to 400+ members to update events, resources, and diversity highlights
-- Facilitated coordination of Veteran's Day event, Wiki-edit-a-thon, and International Women's Day event
+- Composed biweekly newsletters to 400+ members for diversity-oriented events, resources, and highlights
+- Facilitated coordination of major events 300+ cumulative student and faculty engagement: Annual Industry event, Veteran's Day event, Wiki-edit-a-thon, International Women's Day event, and monthly general meetings
 
 ### Research and Development Officer <time> Apr 2020 – Jun 2021 </time>
 
 <location> Chinese Students and Scholars Association, University of Washington </location>
 
-- Designed, crafted, and edited posters and videos for major events, such as Student Orientation Programs
-- Assisted in maintenance of official blog and website to provide resources based on students' need
+- Designed, crafted, and edited posters and videos for major events with average 100+ student engagement
+- Assisted in maintenance of official blog and website to provide academic resources for student success
 
 ### Maple Hall Council SEED Representative <time> Oct 2019 – Mar 2020 </time>
 
 <location> Housing and Food Services, University of Washington </location>
 
-- Led committee meetings and planned campus-wide competition that raised waste sorting awareness
-- Attended weekly hall council and SEED meetings to liaise feedback and updates on activities and initiatives
+- Led weekly committee meetings of 10 people and planned campus-wide waste-sorting competition
+- Liaise sustainability feedback and initiatives through weekly hall council and SEED meetings
 
 <!-- Archive High School Content -->
 
