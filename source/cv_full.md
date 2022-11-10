@@ -44,9 +44,14 @@
 
 ## Honors & Awards
 
-<!-- May 2021, Jul 2022 -->
-### Dan Evans Term Scholarships | <location> Department of Chemical Engineering, University of Washington </location> <time> 2021 & 2022 </time>
+<!-- Nov 2022 -->
+### Conference Travel Award | <location> Undergraduate Research Program, University of Washington </location> <time> 2022 </time>
 
+<!-- Oct 2022 -->
+### Future Leader in ChemE | <location> Dept. of Chemical and Biomolecular Engineering, NC State University </location> <time> 2022 </time>
+
+<!-- May 2021, Jul 2022 -->
+### Dan Evans Term Scholarships | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2021 & 2022 </time>
 
 <!-- Jan 2022 -->
 ### ChemE Hackathon 1st Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2022 </time>
