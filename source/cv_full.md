@@ -123,7 +123,7 @@ Presenting Author^
 
 <location> Undergraduate Research Program, University of Washington </location>
 
-- Engaged 120+ students from 6 first-year interest groups with diverse backgrounds through interactive outreach presentations introducing undergraduate research and sharing personal research experience
+- Engaged 120+ students with diverse backgrounds from 6 first-year interest groups through interactive outreach presentations and served on a panel interfacing with 50+ students
 <!-- - Present at the Annual UW Undergraduate Research Symposium -->
 
 ### Webmaster <time> Apr 2022 – Present </time>
