@@ -44,6 +44,9 @@
 ## Honors & Awards
 
 <!-- Nov 2022 -->
+### Poster Competition 2nd Place | <location> American Institute of Chemical Engineers </location> <time> 2022 </time>
+
+<!-- Nov 2022 -->
 ### Conference Travel Award | <location> Undergraduate Research Program, University of Washington </location> <time> 2022 </time>
 
 <!-- Oct 2022 -->
