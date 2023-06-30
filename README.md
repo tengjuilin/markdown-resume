@@ -5,7 +5,7 @@ Markdown resume provides a simple, elegant, and fast workflow to write resumes a
 - Tired of formatting resumes in word documents? Try writing resumes in Markdown, converting it to html, then print to pdf.
 - Applying to many jobs, and targeted resumes are hard to version control? Try writing resumes in Markdown and version control with Git.
 
-Because academic jobs requires CV instead of resume, resume update is suspended, but CV will continue to be updated periodically. For the most recent CV, visit my [personal website](https://tengjuilin.netlify.app/cv/cv_full/).
+Because academic jobs require CVs instead of resumes, resume will not be updated, but CV will continue to be updated periodically. For the most recent CV, visit my [personal website](https://tengjuilin.netlify.app/cv/cv_full/).
 
 ## Prerequisite
 
