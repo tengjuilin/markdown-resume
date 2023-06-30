@@ -1,9 +1,11 @@
 # Markdown Resume <img src="https://simpleicons.org/icons/markdown.svg" width=20> <img src="https://simpleicons.org/icons/visualstudiocode.svg" width=20> [![License](https://img.shields.io/github/license/tengjuilin/markdown-resume)](https://opensource.org/licenses/MIT)
 
-Markdown resume provides a simple, elegant, and fast workflow to write resumes.
+Markdown resume provides a simple, elegant, and fast workflow to write resumes and CVs.
 
 - Tired of formatting resumes in word documents? Try writing resumes in Markdown, converting it to html, then print to pdf.
 - Applying to many jobs, and targeted resumes are hard to version control? Try writing resumes in Markdown and version control with Git.
+
+Because academic jobs requires CV instead of resume, resume update is suspended, but CV will continue to be updated periodically. For the most recent CV, visit my [personal website](https://tengjuilin.netlify.app/cv/cv_full/).
 
 ## Prerequisite
 
