@@ -2,14 +2,13 @@
 
 <span class="info">
 
-[![Mail](https://simpleicons.org/icons/minutemailer.svg) tengjuilin@berkeley.edu](mailto:tengjuilin@berkeley.edu)
-[![GitHub](https://simpleicons.org/icons/github.svg) github.com/tengjuilin](https://github.com/tengjuilin)
+[tengjuilin@berkeley.edu](mailto:tengjuilin@berkeley.edu) | [github.com/tengjuilin](https://github.com/tengjuilin) | [tengjuilin.netlify.app](https://tengjuilin.netlify.app)
 
 </span>
 
 ## Education
 
-### University of California, Berkeley | <location> Berkeley, CA, USA </location> <time> Starting Aug 2023 </time>
+### University of California, Berkeley | <location> Berkeley, CA, USA </location> <time> Aug 2023 - Present </time>
 
 - Ph.D. student, Chemical and Biomolecular Engineering
 
@@ -19,17 +18,22 @@
 - Minor in Applied Mathematics and Chemistry
 - Focus Area on Bio & Biomedical Materials, Interfaces, and Systems
 - Honors Thesis: Quantifying Microglia Morphological Response to Injury and Treatment Across Species with Unsupervised Machine Learning
+- Industry Capstone: Characterization of Silica-Based Anion Exchange Resin for Acid Mine Drainage
 
 ### Kinglee High School | <location> Zhengzhou, Henan, China </location> <time> Sep 2013 - Jun 2019 </time>
 
 ## Research Experience
+
+### Graduate Student Researcher <time> Oct 2023 - Present</time>
+
+<location> Department of Chemical and Biomolecular Engineering, UC Berkeley, PI: Markita Landry </location>
 
 ### Undergraduate Research Assistant <time> Nov 2020 - Jun 2023 </time>
 
 <location> Department of Chemical Engineering, University of Washington, PI: Elizabeth Nance </location>
 
 - Developed 80% more efficient Python application programming interface for morphological analysis and modular integration to immunofluorescent image analysis workflow
-- Quantified microglia morphology in neuroinflammatory rat and ferret oxygen-glucose deprivation models and healthy mouse, rat, ferret, rabbit, and pig models (427,000+ cells) with immunofluorescent image processing and unsupervised machine learning.
+- Quantified microglia morphology in neuroinflammatory rat and ferret oxygen-glucose deprivation models and healthy mouse, rat, ferret, rabbit, and pig models (427,000+ cells) with immunofluorescent image processing and unsupervised machine learning
 - Analyzed number of publications that used immunofluorescent images at 450+ combinations of variables using PubMed web scrapping in Python, 93% more efficient than manual search
 - Tile-scanned 12 murine breast cancer tissue slices using confocal microscope (24.5 hr)
 
@@ -95,7 +99,11 @@
 <!-- Jun 2017 -->
 #### Science Fair Award 1st Place | <location> Kinglee High School </location> <time> 2017 </time>
 
-<!-- ## Publications -->
+## Publications
+
+Corresponding Author*
+
+1. H. Helmbrecht, **T.-J. Lin**, S. Janakiraman, K. Decker, E. Nance\*. Prevalence and Practices of Immunofluorescent Cell Image Processing: A Systematic Review. *Frontiers in Cellular Neuroscience* (2023). [DOI: 10.3389/fncel.2023.1188858](https://www.doi.org/10.3389/fncel.2023.1188858).
 
 ## Presentations
 
@@ -124,6 +132,7 @@ Presenting Author^
 
 ## Mass Media Appearances
 
+1. (Insights letter) A. Heim, T. Bharani, N. Konstantinides, J. Powell, S. Srivastava, X. Cao, D. Agarwal, K. Waiho, **T.-J. Lin**, E. Virgüez, W. Strielkowski, A. Uzonyi. AI in search of human help. *Science*. 381, 162-163 (2023). [DOI: 10.1126/science.adi8740](https://doi.org/10.1126/science.adi8740)
 1. (Insights letter) R. Tang, T. Bharani, J. Ding, K. Li, J. Wen, S. D. Gopinath, **T.-J. Lin**, J. X. J. Luo, Q. Wen, K. Davis, N. van Rhijn, Name withheld, S. M. Anderson, R. J. Patel, S. Sarnala, F. S. Oda, G. Singh, N. R. Kothapalli, N. Scott, J. R. Powell, S. N. Kirshner. When internships disappoint. *Science*. 378, 22–24 (2022). [DOI: 10.1126/science.ade6397.](https://doi.org/10.1126/science.ade6397)
 
 ## Teaching Experience
@@ -131,9 +140,16 @@ Presenting Author^
 ### Open-Source Chemical Engineering Education ([Link](https://tengjuilin.netlify.app/resources/))	<time> Jan 2021 – Present </time>
 
 - [Equation sheets](https://equation-sheets.netlify.app/) of >20 courses in chemical engineering, applied mathematics, physics, and chemistry.
-- Scientific computing workbook of 2 courses in [chemical engineering](https://cheme-sci-computing.netlify.app/readme) and [applied mathematics](https://intro-sci-computing.netlify.app/readme).
-- [Course notes](https://github.com/tengjuilin/course-notes) of 15 courses in chemical engineering, applied mathematics, physics, and chemistry.
-- Instructional videos ([YouTube](https://www.youtube.com/@thenanokid), [Bilibili](https://space.bilibili.com/301350381)) with [accompanying slides](https://github.com/tengjuilin/video-notes) in process dynamics and control, process design, and surface and colloid science with >20 videos at >2000 total views and >100 stars.
+- Scientific computing workbook of 2 courses in [chemical engineering](https://cheme-sci-computing.netlify.app/readme) and [applied mathematics](https://intro-sci-computing.netlify.app/readme)
+- [Course notes](https://github.com/tengjuilin/course-notes) of 15 courses in chemical engineering, applied mathematics, physics, and chemistry
+- Instructional videos ([YouTube](https://www.youtube.com/@thenanokid), [Bilibili](https://space.bilibili.com/301350381)) with [accompanying slides](https://github.com/tengjuilin/video-notes) in process dynamics and control, process design, and surface and colloid science with >30 videos at >8000 total views and >100 stars
+
+### Graduate Student Instructor, <br/> CHM ENG 130: Mathematics and Statistics in Chemical Engineering <time> Aug 2023 - Dec 2023 </time>
+
+<location> Department of Chemical and Biomolecular Engineering, UC Berkeley, Instructor: Aditi Krishnapriyan </location>
+
+- Designed and instructed 13 computational lab sections and assignments for >50 students
+- Formulated problems in 3 exams and 4 homework, responded student questions online
 
 ### Teaching Assistant, CHEM E 455: Surface and Colloid Science Laboratory <time> Mar 2023 - Jun 2023 </time>
 
@@ -159,6 +175,12 @@ Presenting Author^
 - Analyzed and visualized concentration-time profiles, adsorption isotherms, and effect of oxidizers and foulants on adsorption of ceramic ion exchange resins with Python
 
 ## Service
+
+### Note Taker <time> Aug 2023 – Dec 2023 </time>
+
+<location> Disabled Students’ Program, UC Berkeley </location>
+
+- Organized detailed notes for >60 lectures of 2 core ChemE courses of Thermodynamics and Kinetics
 
 ### Chemical Engineering Peer Mentor <time> Mar 2023 – Jun 2023 </time>
 
@@ -235,6 +257,12 @@ Presenting Author^
 
 ## References
 
+### Markita Landry | <landry@berkeley.edu>
+
+<location> Department of Chemical and Biomolecular Engineering, UC Berkeley </location>
+
+Associate Professor
+
 ### Elizabeth Nance | <eanance@uw.edu>
 
 <location> Department of Chemical Engineering, University of Washington </location>
@@ -243,13 +271,13 @@ Jagjeet and Janice Bindra Endowed Career Development Associate Professor
 
 ChemE Associate Chair for Undergraduate Studies
 
-### Jim Pfaendtner | <jpfaendt@uw.edu>
+### Jim Pfaendtner | <wjpfaend@ncsu.edu>
 
-<location> Department of Chemical Engineering, University of Washington </location>
+<location> Department of Chemical and Biomolecular Engineering, North Carolina State University </location>
 
-Steven and Connie Rogel Endowed Professor
+Professor
 
-ChemE Department Chair
+Louis Martin-Vega Dean of Engineering
 
 ### John Berg | <spc@uw.edu>
 

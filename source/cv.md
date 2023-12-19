@@ -9,7 +9,7 @@
 
 ## Education
 
-### University of California, Berkeley | <location> Berkeley, CA, USA </location> <time> Starting Aug 2023 </time>
+### University of California, Berkeley | <location> Berkeley, CA, USA </location> <time> Aug 2023 - Present </time>
 
 - Ph.D. student, Chemical and Biomolecular Engineering
 
@@ -19,8 +19,13 @@
 - Minor in Applied Mathematics and Chemistry
 - Focus Area on Bio & Biomedical Materials, Interfaces, and Systems
 - Honors Thesis: Quantifying Microglia Morphological Response to Injury and Treatment Across Species with Unsupervised Machine Learning
+- Industry Capstone: Characterization of Silica-Based Anion Exchange Resin for Acid Mine Drainage
 
 ## Research Experience
+
+### Graduate Student Researcher <time> Oct 2023 - Present</time>
+
+<location> Department of Chemical and Biomolecular Engineering, UC Berkeley, PI: Markita Landry </location>
 
 ### Undergraduate Research Assistant <time> Nov 2020 - Jun 2023 </time>
 
@@ -66,7 +71,11 @@
 <!-- Jan 2021 -->
 #### ChemE Hackathon Team 3rd Place | <location> Dept. of Chemical Engineering, University of Washington </location> <time> 2021 </time>
 
-<!-- ## Publications -->
+## Publications
+
+Corresponding Author*
+
+1. H. Helmbrecht, **T.-J. Lin**, S. Janakiraman, K. Decker, E. Nance\*. Prevalence and Practices of Immunofluorescent Cell Image Processing: A Systematic Review. *Frontiers in Cellular Neuroscience* (2023). [DOI: 10.3389/fncel.2023.1188858](https://www.doi.org/10.3389/fncel.2023.1188858).
 
 ## Presentations
 
@@ -95,11 +104,16 @@ Presenting Author^
 
 ## Mass Media Appearances
 
+1. (Insights letter) A. Heim, T. Bharani, N. Konstantinides, J. Powell, S. Srivastava, X. Cao, D. Agarwal, K. Waiho, **T.-J. Lin**, E. Virgüez, W. Strielkowski, A. Uzonyi. AI in search of human help. *Science*. 381, 162-163 (2023). [DOI: 10.1126/science.adi8740](https://doi.org/10.1126/science.adi8740)
 1. (Insights letter) R. Tang, T. Bharani, J. Ding, K. Li, J. Wen, S. D. Gopinath, **T.-J. Lin**, J. X. J. Luo, Q. Wen, K. Davis, N. van Rhijn, Name withheld, S. M. Anderson, R. J. Patel, S. Sarnala, F. S. Oda, G. Singh, N. R. Kothapalli, N. Scott, J. R. Powell, S. N. Kirshner. When internships disappoint. *Science*. 378, 22–24 (2022). [DOI: 10.1126/science.ade6397.](https://doi.org/10.1126/science.ade6397)
 
 ## Teaching Experience
 
 ### Open-Source Chemical Engineering Education ([Link](https://tengjuilin.netlify.app/resources/))	<time> Jan 2021 – Present </time>
+
+### Graduate Student Instructor, <br/> CHM ENG 130: Mathematics and Statistics in Chemical Engineering <time> Aug 2023 - Dec 2023 </time>
+
+<location> Department of Chemical and Biomolecular Engineering, UC Berkeley, Instructor: Aditi Krishnapriyan </location>
 
 ### Teaching Assistant, CHEM E 455: Surface and Colloid Science Laboratory <time> Mar 2023 - Jun 2023 </time>
 
@@ -116,6 +130,10 @@ Presenting Author^
 <location> Department of Chemical Engineering, University of Washington <br/> Membrion, Inc. </location>
 
 ## Service
+
+### Note Taker <time> Aug 2023 – Dec 2023 </time>
+
+<location> Disabled Students’ Program, UC Berkeley </location>
 
 ### Chemical Engineering Peer Mentor <time> Mar 2023 – Jun 2023 </time>
 
@@ -149,6 +167,12 @@ Presenting Author^
 <!-- ## Student Mentoring // graduate level-->
 
 ## References
+
+### Markita Landry | <landry@berkeley.edu>
+
+<location> Department of Chemical and Biomolecular Engineering, UC Berkeley </location>
+
+Associate Professor
 
 ### Elizabeth Nance | <eanance@uw.edu>
 
