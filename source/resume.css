@@ -100,3 +100,29 @@ location {
     display: block;
     text-align: center;
 }
+
+@media print {
+    h2 {
+        break-after: avoid;
+        /* Avoid breaking right after h2 */
+    }
+
+    h3 {
+        break-after: avoid;
+        /* Avoid breaking right after h3 */
+    }
+
+    h3~p,
+    h3~ul,
+    h3~ol,
+    h3~blockquote {
+        /* Add other tags as necessary */
+        break-before: avoid;
+        /* Avoid breaking right before these elements if they follow an h3 */
+    }
+
+    h3~h3 {
+        break-before: auto;
+        /* Allow breaks before a new h3, overriding previous rules */
+    }
+}
